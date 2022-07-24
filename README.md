@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Alex
 - 👀 I’m interested in computer science and especially in programming
-- 🌱 I’m currently learning C++ and Java
+- 🌱 I’m currently learning C++ and Java (and some Rust too)
 
 <!---
 holyghosst/holyghosst is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
