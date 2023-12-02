@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Alex, 
+- 👋 Hi, I’m Alex
 - 👀 I study Computer Science at the University of Vienna
 - 🌱 I’m currently learning C++ and Java (and some Rust too)
 
